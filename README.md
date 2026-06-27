@@ -118,11 +118,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/shivam-agarwal-896956312">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Shivam-Agarwal-8582">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
