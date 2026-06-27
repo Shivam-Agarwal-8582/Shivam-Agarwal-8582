@@ -110,9 +110,7 @@
 
 ## 📈 Coding Profiles
 
-* 💻 LeetCode: https://leetcode.com/YOUR_USERNAME
-* 🏆 Codeforces: https://codeforces.com/profile/YOUR_USERNAME
-* 📚 GeeksforGeeks: https://www.geeksforgeeks.org/user/YOUR_USERNAME
+* 💻 LeetCode: https://leetcode.com/Shivam8582
 
 ---
 
@@ -130,7 +128,7 @@
 
 </p>
 
-📧 Email: YOUR_EMAIL
+📧 Email: shivamagarwalblp@gmail.com
 
 ---
 
@@ -145,16 +143,6 @@
 ## ⚡ Fun Fact
 
 > **"First, solve the problem. Then, write the code."**
-
----
-
-## 🐍 Contribution Snake
-
-> After enabling GitHub Actions, uncomment the line below:
-
-<!--
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
--->
 
 ---
 
