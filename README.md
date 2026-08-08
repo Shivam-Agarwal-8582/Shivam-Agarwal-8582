@@ -81,7 +81,6 @@
 
 📧 **Email:** [shivamagarwalblp@gmail.com](mailto:shivamagarwalblp@gmail.com)
 
-💻 **LeetCode:** https://leetcode.com/Shivam8582
 
 ---
 
