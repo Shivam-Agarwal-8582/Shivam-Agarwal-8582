@@ -1,107 +1,246 @@
-# 👋 Hi, I'm Shivam Agarwal
+```{=html}
+<!--
+  GitHub Profile README
+  Save this file as README.md in a repository named:
+  Shivam-Agarwal-8582
+-->
+```
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22C55E&height=210&section=header&text=Shivam%20Agarwal&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20GenAI&descAlignY=60&descSize=16" alt="Shivam Agarwal profile banner" width="100%"/>`{=html}
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;GenAI+%26+Backend+Enthusiast;DSA+Problem+Solver;Building+Scalable+Applications" />
-</p>
+`<a href="https://git.io/typing-svg">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs;Exploring+Generative+AI+and+LLM+apps;Learning%2C+building%2C+and+improving+every+day" alt="Typing introduction"/>`{=html}
+`</a>`{=html}
 
----
+`<br/>`{=html}
 
-## 💫 About Me
+`<img src="https://komarev.com/ghpvc/?username=Shivam-Agarwal-8582&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>`{=html}
+`<a href="https://github.com/Shivam-Agarwal-8582?tab=followers">`{=html}
+`<img src="https://img.shields.io/github/followers/Shivam-Agarwal-8582?style=for-the-badge&logo=github&label=FOLLOWERS&color=16a34a" alt="GitHub followers"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/Shivam-Agarwal-8582">`{=html}
+`<img src="https://img.shields.io/badge/Open%20to-Collaborate-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborate"/>`{=html}
+`</a>`{=html}
+:::
 
-* 🎓 B.E. Computer Science Engineering student at **Chandigarh University** (2023–2027)
-* 💻 Focused on **Java, Spring Boot, REST APIs, and Backend Development**
-* 🤖 Exploring **Generative AI and LLM integration** with Google Gemini API
-* 🚀 Experienced in building **RESTful APIs, JWT authentication, and database-driven applications**
-* 🎯 Preparing for **Software Engineer / Backend Developer** roles
+------------------------------------------------------------------------
 
----
+## 👨‍💻 About Me
 
-## 🛠 Tech Stack
+Hi! I'm **Shivam Agarwal**, a Computer Science Engineering student at
+**Chandigarh University**, graduating in **2027**. I enjoy turning ideas
+into useful applications, designing clean backend APIs, and
+understanding how software works under the hood.
 
+-   ☕ Focused on **Java, Spring Boot, REST APIs, and backend
+    engineering**
+-   🔐 Building with authentication, authorization, validation, and
+    database integration
+-   🤖 Exploring **Generative AI** and LLM-powered applications with the
+    Google Gemini API
+-   🧠 Practising **Data Structures & Algorithms** and strengthening
+    core CS fundamentals
+-   🛠️ Interested in maintainable code, practical problem-solving, and
+    scalable application design
+-   🎯 Working toward **Software Engineer / Java Backend Developer**
+    opportunities
+
+> **My approach:** Build it, understand it, improve it, and document it.
+
+------------------------------------------------------------------------
+
+## 🧰 Tech Stack
+
+### Languages
+
+```{=html}
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="45"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" height="45"/>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  <img src="https://skillicons.dev/icons?i=maven" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="45"/>
-  <img src="https://skillicons.dev/icons?i=idea" height="45"/>
+```
+`<img src="https://skillicons.dev/icons?i=java,cpp,python,js" alt="Java, C++, Python, JavaScript" />`{=html}
+```{=html}
 </p>
+```
+### Backend & APIs
 
-### Core Skills
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman" alt="Spring, Hibernate, Maven, Postman" />`{=html}
+```{=html}
+</p>
+```
+### Frontend & Database
 
-**Languages:** Java, SQL, Python, C++
-**Backend:** Spring Boot, Spring MVC, Hibernate, Spring Data JPA
-**Frontend:** HTML, CSS, JavaScript, React
-**Database:** MySQL
-**Core CS:** Data Structures & Algorithms, OOP, DBMS
-**Tools & AI:** Git, GitHub, Maven, Postman, GitHub Copilot, Gemini AI
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,react,mysql" alt="HTML, CSS, React, MySQL" />`{=html}
+```{=html}
+</p>
+```
+### Tools & Platforms
 
----
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,aws" alt="Git, GitHub, IntelliJ IDEA, VS Code, Docker, AWS" />`{=html}
+```{=html}
+</p>
+```
+  -----------------------------------------------------------------------
+  Area                                Technologies
+  ----------------------------------- -----------------------------------
+  **Languages**                       Java, C++, Python, JavaScript, SQL
+
+  **Backend**                         Spring Boot, Spring MVC, Spring
+                                      Data JPA, Hibernate, REST APIs
+
+  **Security**                        JWT authentication, role-based
+                                      access, Spring Security *(currently
+                                      learning/developing)*
+
+  **Frontend**                        HTML, CSS, JavaScript, React
+
+  **Database**                        MySQL
+
+  **Core CS**                         Data Structures & Algorithms, OOP,
+                                      DBMS
+
+  **Tools**                           Git, GitHub, Maven, Postman,
+                                      IntelliJ IDEA
+
+  **AI**                              Google Gemini API, prompt
+                                      engineering, LLM integration
+
+  **Exploring**                       Docker, AWS, backend architecture
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Resume Analyzer
 
-> AI-powered ATS Resume Analyzer built with **Spring Boot and Google Gemini API** to evaluate resumes against job descriptions.
+**Java · Spring Boot · Google Gemini API**
 
-* Built **8+ REST APIs** for resume upload, ATS scoring, keyword extraction, and AI-generated feedback
-* Implemented **semantic job-description matching and skill extraction**
-* Used **prompt engineering** to generate ATS scores and personalized resume recommendations
-* Integrated **Gemini LLM** to automate resume evaluation
+An AI-assisted tool designed to compare a resume with a job description
+and provide actionable feedback.
+
+-   Integrates the Gemini API to generate resume feedback and
+    recommendations.
+-   Supports ATS-oriented scoring, keyword analysis, and skill-gap
+    insights.
+-   Uses prompt design to make AI responses more structured and useful.
+-   Focuses on helping candidates identify areas to improve in their
+    resumes.
 
 ### ⚡ LRU Cache Visualizer
 
-> Interactive visualization of the **LRU Cache algorithm** using HTML, CSS, and JavaScript.
+**HTML · CSS · JavaScript · Data Structures**
 
-* Implemented **O(1) Put and Get operations** using HashMap and Doubly Linked List
-* Added real-time animations for cache insertion, access, eviction, and node movement
-* Added configurable cache capacity and operation history
+An interactive learning tool that demonstrates how a Least Recently Used
+cache behaves.
 
-### 💺 Smart Seat Management System
+-   Implements cache operations using a **HashMap and doubly linked
+    list**.
+-   Demonstrates average **O(1)** lookup and update operations.
+-   Visualizes cache hits, misses, node movement, and eviction.
+-   Includes configurable capacity and an operation history.
 
-> Responsive web application for interactive seat booking using HTML, CSS, and JavaScript.
+### 💺 Smart Seat Booking System
 
-* Built interactive seating layout with dynamic seat selection
-* Implemented booking validation and real-time updates without page reloads
-* Designed a responsive interface for different screen sizes
+**Web Development · JavaScript**
 
----
+A responsive interface for selecting seats and managing a booking flow.
 
-## 📚 Currently Learning
+-   Displays an interactive seating layout.
+-   Supports seat selection and booking validation.
+-   Updates the interface dynamically without a full page reload.
+-   Uses responsive styling for different screen sizes.
 
-* 🔐 Spring Security & JWT Authentication
-* ☕ Advanced Java
-* 🤖 Generative AI & LLM Applications
-* 🏗️ Backend Architecture & Scalable Applications
-* 🐳 Docker
+### ☁️ CloudVault --- Serverless Cloud Storage *(if this is one of your current public projects)*
 
----
+**React · Spring Boot · AWS S3 · CloudFront · MySQL**
 
-## 🌐 Connect With Me
+A cloud-storage project concept with a web interface and backend-managed
+file access.
 
-<p>
-  <a href="https://linkedin.com/in/shivam-agarwal-896956312">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
+-   Uses an S3-based storage workflow and pre-signed URLs for controlled
+    file access.
+-   Stores file metadata separately from file content.
+-   Explores static frontend hosting with CloudFront.
+-   Separates frontend, API, storage, and metadata responsibilities.
 
-  <a href="https://github.com/Shivam-Agarwal-8582">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-</p>
+> **Tip:** Link each project title to its repository once the repository
+> is public. Only list projects that are working well enough for you to
+> explain in an interview.
 
-📧 **Email:** [shivamagarwalblp@gmail.com](mailto:shivamagarwalblp@gmail.com)
+------------------------------------------------------------------------
 
----
+## 📊 GitHub at a Glance
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+::: {align="center"}
+`<a href="https://github.com/Shivam-Agarwal-8582">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivam-Agarwal-8582&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/Shivam-Agarwal-8582">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Agarwal-8582&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most-used languages"/>`{=html}
+`</a>`{=html}
+
+`<br/>`{=html}
+
+`<img src="https://streak-stats.demolab.com?user=Shivam-Agarwal-8582&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%"/>`{=html}
+
+`<br/>`{=html}
+
+`<img src="https://github-profile-trophy.vercel.app/?username=Shivam-Agarwal-8582&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" width="95%"/>`{=html}
+:::
+
+### 🐍 Contribution Activity
+
+The contribution animation below works after you add the GitHub Actions
+workflow that generates `output/github-contribution-grid-snake.svg` in
+your profile repository. Until that workflow is configured, the image
+may not display.
+
+::: {align="center"}
+`<img src="https://raw.githubusercontent.com/Shivam-Agarwal-8582/Shivam-Agarwal-8582/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🌱 Currently Learning
+
+-   Spring Security, JWT, and authorization flows
+-   Advanced Java and Java Collections
+-   REST API design, validation, exception handling, and testing
+-   SQL query design and database fundamentals
+-   Backend architecture and maintainable code
+-   Docker and AWS deployment fundamentals
+-   Practical applications of Generative AI and LLMs
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+::: {align="center"}
+`<a href="https://linkedin.com/in/shivam-agarwal-896956312">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/Shivam-Agarwal-8582">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html} `<a href="mailto:shivamagarwalblp@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
+`</a>`{=html}
+
+`<br/>`{=html}`<br/>`{=html}
+
+**Email:** <shivamagarwalblp@gmail.com>
+:::
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### 💬 A little reminder
+
+*"Great software is built one thoughtful improvement at a time."*
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:2563EB,100:0F172A&height=100&section=footer" alt="Decorative footer" width="100%"/>`{=html}
+:::
